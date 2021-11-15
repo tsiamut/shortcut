@@ -1,0 +1,17 @@
+Name: Insert %in%
+Description: Inserts `%in%`
+Binding: insert_in
+Interactive: true
+
+Name: Insert %*%
+Description: Inserts `%*%`
+Binding: insert_prod
+Interactive: true
+
+Name: Insert ->
+Description: Inserts `->`.
+Binding: insert_end
+Interactive: true
+
+
+
